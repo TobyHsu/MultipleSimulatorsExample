@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>iOS 9 要求定位權限的字串</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>iOS 11 要求定位權限的字串</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>App 使用時才能拿取定位</string>
 </dict>
 </plist>
